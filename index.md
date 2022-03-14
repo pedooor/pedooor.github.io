@@ -1,6 +1,6 @@
+## Portefólio do Pedro
 
-
-## Projetos
+### Projetos
 
 Aqui encontram-se todos os trabalhos de programação que tenho desenvolvido. Siga pelos botões abaixo:
 
