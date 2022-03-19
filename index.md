@@ -20,8 +20,8 @@ Primeiros Passos em HTML:
 
 Pauta fotográfica da turma:
 
-- [Resultado;](https://pedooor.github.io/tabela/tabela.html)
-- [Repositório;](https://github.com/pedooor/tabela)
+- [Resultado;](https://pedooor.github.io/pt05_tabela/)
+- [Repositório;](https://github.com/pedooor/pt05_tabela)
 
 [passo1]: <https://pedooor.github.io/primeiros_passos_html/documento.html>
 [passo2]: <https://pedooor.github.io/primeiros_passos_html/cabecalhos.html>
