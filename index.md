@@ -5,7 +5,7 @@
 Aqui encontram-se todos os documentos criados no âmbito da PT05.
 
 
-### Primeiros Passos em HTML:
+#### Primeiros Passos em HTML:
 
 | Descrição | Resultado |
 | ------ | ------ |
@@ -16,7 +16,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT05.
 | HTML images (img src) | [Passo 5][passo5] |
 | Repositório | [https://github.com/pedooor/primeiros_passos_html] |
 
-### Pauta fotográfica da turma 12º12ª:
+#### Pauta fotográfica da turma 12º12ª:
 
 Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a representar o clube de futebol de cada aluno da turma. 
 
