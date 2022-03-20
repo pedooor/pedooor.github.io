@@ -1,8 +1,8 @@
-# Portefólio do Pedro
+# GitHub - Portefólio PT05
 
-## Projetos
+## Estrutura HTML e Pauta Caricaturada
 
-Aqui encontram-se todos os documentos desenvolvidos para a PT05. Siga pelos botões abaixo:
+Aqui encontram-se todos os documentos e respetivos resultados, da PT05.
 
 
 Primeiros Passos em HTML:
@@ -19,6 +19,8 @@ Primeiros Passos em HTML:
 
 
 Pauta fotográfica da turma:
+
+Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a representar o clube de futebol de cada aluno da turma 12º12ª. 
 
 - [Resultado;](https://pedooor.github.io/pt05_tabela/)
 - [Repositório;](https://github.com/pedooor/pt05_tabela)
