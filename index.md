@@ -14,7 +14,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT05.
 | HTML paragraphs (p e p) | [Passo 3][passo3] |
 | HTML links (a href) | [Passo 4][passo4] |
 | HTML images (img src) | [Passo 5][passo5] |
-| Repositório | https://github.com/pedooor/primeiros_passos_html |
+| Repositório | [https://github.com/pedooor/primeiros_passos_html] |
 
 ### Pauta fotográfica da turma 12º12ª:
 
