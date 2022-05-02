@@ -2,7 +2,7 @@
 
 ## PT05: Estrutura HTML e Pauta Caricaturada
 
-Aqui encontram-se todos os documentos criados no âmbito das PTs 05 e 06.
+Aqui encontram-se todos os documentos criados no âmbito da PT05.
 
 
 #### Primeiros Passos em HTML:
@@ -27,6 +27,8 @@ Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a 
 
 
 ## PT06: Prática em CSS
+
+Aqui encontram-se todos os documentos criados no âmbito da PT06.
 
 #### 5 Exemplos práticos em CSS:
 
