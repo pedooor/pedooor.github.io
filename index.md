@@ -16,6 +16,10 @@ Aqui encontram-se todos os documentos criados no âmbito da PT05.
 | HTML images (img src) | [Passo 5][passo5] |
 | Repositório | [Link Direto](https://github.com/pedooor/primeiros_passos_html) |
 
+
+
+
+
 #### Pauta fotográfica da turma 12º12ª:
 
 Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a representar o clube de futebol de cada aluno da turma. 
@@ -30,6 +34,7 @@ Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a 
 
 Aqui encontram-se todos os documentos criados no âmbito da PT06.
 
+
 #### 5 Exemplos práticos em CSS:
 
 | Descrição | Resultado |
@@ -39,14 +44,14 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
 | formatar todos os elementos identificados pela classe ".centro" | [Exemplo 3][exemplo3] |
 | formatar somente os elementos <p> identificados pela classe ".centro" | [Exemplo 4][exemplo4] |
 | formatar somente os elementos <p> identificados pelas classes ".centro" e/ou ".largo" | [Exemplo 5][exemplo5] |
-| Repositório | [Link Direto](https://github.com/pedooor/primeiros_passos_html)|
+| Repositório | [Link Direto](https://github.com/pedooor/primeiros_passos_html) |
+ 
+#### Tabela Opcional
   
+Neste passo opcional da PT optei por fazer um top 10 cidades mais habitadas de Portugal.
 
-
-  
-  
-  
-  
+- [Resultado;](https://pedooor.github.io/tabela06/index.html)
+- [Repositório;](https://github.com/pedooor/tabela06)
 
 [passo1]: <https://pedooor.github.io/primeiros_passos_html/documento.html>
 [passo2]: <https://pedooor.github.io/primeiros_passos_html/cabecalhos.html>
