@@ -30,6 +30,8 @@ Para tornar a tabela um pouco diferente decidi aplicar fundos às caricaturas a 
 
 
 
+
+
 ## PT06: Prática em CSS
 
 Aqui encontram-se todos os documentos criados no âmbito da PT06.
